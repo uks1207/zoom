@@ -1,2 +1,2 @@
 # zoom
-Just a simple static webpage to check the 
+Just a simple static webpage to check the CICD using netlify.
